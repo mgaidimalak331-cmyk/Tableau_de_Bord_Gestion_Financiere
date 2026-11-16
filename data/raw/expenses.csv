@@ -1,0 +1,421 @@
+expense_id,expense_date,category,department_id,amount_tnd,description
+1,2025-01-25,Salaires,1,6755.07,Charge salaires - Commercial
+2,2025-01-19,Marketing,1,1103.51,Charge marketing - Commercial
+3,2025-01-07,Loyer,1,1709.54,Charge loyer - Commercial
+4,2025-01-06,Transport,1,533.8,Charge transport - Commercial
+5,2025-01-01,Logiciels,1,634.28,Charge logiciels - Commercial
+6,2025-01-19,Fournitures,1,336.57,Charge fournitures - Commercial
+7,2025-01-14,Maintenance,1,355.79,Charge maintenance - Commercial
+8,2025-01-14,Salaires,2,6553.03,Charge salaires - Marketing
+9,2025-01-25,Marketing,2,1045.6,Charge marketing - Marketing
+10,2025-01-29,Loyer,2,1567.06,Charge loyer - Marketing
+11,2025-01-09,Transport,2,365.79,Charge transport - Marketing
+12,2025-01-14,Logiciels,2,650.11,Charge logiciels - Marketing
+13,2025-01-10,Fournitures,2,253.22,Charge fournitures - Marketing
+14,2025-01-21,Maintenance,2,346.92,Charge maintenance - Marketing
+15,2025-01-31,Salaires,3,6009.78,Charge salaires - Informatique
+16,2025-01-11,Marketing,3,1094.91,Charge marketing - Informatique
+17,2025-01-10,Loyer,3,1934.01,Charge loyer - Informatique
+18,2025-01-06,Transport,3,503.96,Charge transport - Informatique
+19,2025-01-27,Logiciels,3,556.43,Charge logiciels - Informatique
+20,2025-01-07,Fournitures,3,264.98,Charge fournitures - Informatique
+21,2025-01-17,Maintenance,3,377.74,Charge maintenance - Informatique
+22,2025-01-08,Salaires,4,5847.88,Charge salaires - Ressources humaines
+23,2025-01-06,Marketing,4,1187.39,Charge marketing - Ressources humaines
+24,2025-01-19,Loyer,4,1713.96,Charge loyer - Ressources humaines
+25,2025-01-21,Transport,4,533.0,Charge transport - Ressources humaines
+26,2025-01-30,Logiciels,4,525.25,Charge logiciels - Ressources humaines
+27,2025-01-29,Fournitures,4,292.53,Charge fournitures - Ressources humaines
+28,2025-01-18,Maintenance,4,381.07,Charge maintenance - Ressources humaines
+29,2025-01-30,Salaires,5,6032.2,Charge salaires - Administration
+30,2025-01-22,Marketing,5,1148.01,Charge marketing - Administration
+31,2025-01-11,Loyer,5,1558.14,Charge loyer - Administration
+32,2025-01-24,Transport,5,332.79,Charge transport - Administration
+33,2025-01-07,Logiciels,5,417.07,Charge logiciels - Administration
+34,2025-01-15,Fournitures,5,282.03,Charge fournitures - Administration
+35,2025-01-30,Maintenance,5,391.42,Charge maintenance - Administration
+36,2025-02-10,Salaires,1,6481.88,Charge salaires - Commercial
+37,2025-02-24,Marketing,1,1364.46,Charge marketing - Commercial
+38,2025-02-16,Loyer,1,1632.58,Charge loyer - Commercial
+39,2025-02-13,Transport,1,426.29,Charge transport - Commercial
+40,2025-02-22,Logiciels,1,409.47,Charge logiciels - Commercial
+41,2025-02-07,Fournitures,1,288.66,Charge fournitures - Commercial
+42,2025-02-28,Maintenance,1,308.15,Charge maintenance - Commercial
+43,2025-02-24,Salaires,2,5984.09,Charge salaires - Marketing
+44,2025-02-06,Marketing,2,972.57,Charge marketing - Marketing
+45,2025-02-17,Loyer,2,1610.27,Charge loyer - Marketing
+46,2025-02-11,Transport,2,312.51,Charge transport - Marketing
+47,2025-02-15,Logiciels,2,590.54,Charge logiciels - Marketing
+48,2025-02-14,Fournitures,2,271.56,Charge fournitures - Marketing
+49,2025-02-21,Maintenance,2,266.88,Charge maintenance - Marketing
+50,2025-02-18,Salaires,3,7461.66,Charge salaires - Informatique
+51,2025-02-04,Marketing,3,733.3,Charge marketing - Informatique
+52,2025-02-12,Loyer,3,1373.44,Charge loyer - Informatique
+53,2025-02-07,Transport,3,493.45,Charge transport - Informatique
+54,2025-02-24,Logiciels,3,576.66,Charge logiciels - Informatique
+55,2025-02-21,Fournitures,3,299.0,Charge fournitures - Informatique
+56,2025-02-25,Maintenance,3,370.75,Charge maintenance - Informatique
+57,2025-02-15,Salaires,4,6793.31,Charge salaires - Ressources humaines
+58,2025-02-13,Marketing,4,1257.13,Charge marketing - Ressources humaines
+59,2025-02-18,Loyer,4,1453.98,Charge loyer - Ressources humaines
+60,2025-02-19,Transport,4,448.8,Charge transport - Ressources humaines
+61,2025-02-04,Logiciels,4,446.85,Charge logiciels - Ressources humaines
+62,2025-02-02,Fournitures,4,312.51,Charge fournitures - Ressources humaines
+63,2025-02-27,Maintenance,4,393.36,Charge maintenance - Ressources humaines
+64,2025-02-07,Salaires,5,6403.43,Charge salaires - Administration
+65,2025-02-14,Marketing,5,1197.95,Charge marketing - Administration
+66,2025-02-10,Loyer,5,1393.64,Charge loyer - Administration
+67,2025-02-06,Transport,5,497.33,Charge transport - Administration
+68,2025-02-12,Logiciels,5,577.19,Charge logiciels - Administration
+69,2025-02-07,Fournitures,5,342.48,Charge fournitures - Administration
+70,2025-02-03,Maintenance,5,410.0,Charge maintenance - Administration
+71,2025-03-28,Salaires,1,8614.38,Charge salaires - Commercial
+72,2025-03-20,Marketing,1,994.68,Charge marketing - Commercial
+73,2025-03-12,Loyer,1,1682.14,Charge loyer - Commercial
+74,2025-03-02,Transport,1,421.56,Charge transport - Commercial
+75,2025-03-15,Logiciels,1,481.86,Charge logiciels - Commercial
+76,2025-03-30,Fournitures,1,290.98,Charge fournitures - Commercial
+77,2025-03-17,Maintenance,1,346.61,Charge maintenance - Commercial
+78,2025-03-10,Salaires,2,6414.87,Charge salaires - Marketing
+79,2025-03-10,Marketing,2,1066.62,Charge marketing - Marketing
+80,2025-03-30,Loyer,2,1351.96,Charge loyer - Marketing
+81,2025-03-01,Transport,2,469.04,Charge transport - Marketing
+82,2025-03-26,Logiciels,2,580.77,Charge logiciels - Marketing
+83,2025-03-03,Fournitures,2,267.36,Charge fournitures - Marketing
+84,2025-03-29,Maintenance,2,361.29,Charge maintenance - Marketing
+85,2025-03-25,Salaires,3,6301.91,Charge salaires - Informatique
+86,2025-03-14,Marketing,3,1220.95,Charge marketing - Informatique
+87,2025-03-09,Loyer,3,1267.22,Charge loyer - Informatique
+88,2025-03-10,Transport,3,429.5,Charge transport - Informatique
+89,2025-03-07,Logiciels,3,574.88,Charge logiciels - Informatique
+90,2025-03-30,Fournitures,3,324.64,Charge fournitures - Informatique
+91,2025-03-04,Maintenance,3,436.8,Charge maintenance - Informatique
+92,2025-03-22,Salaires,4,5318.49,Charge salaires - Ressources humaines
+93,2025-03-20,Marketing,4,1209.44,Charge marketing - Ressources humaines
+94,2025-03-27,Loyer,4,1291.79,Charge loyer - Ressources humaines
+95,2025-03-29,Transport,4,448.69,Charge transport - Ressources humaines
+96,2025-03-25,Logiciels,4,586.7,Charge logiciels - Ressources humaines
+97,2025-03-30,Fournitures,4,285.96,Charge fournitures - Ressources humaines
+98,2025-03-28,Maintenance,4,447.2,Charge maintenance - Ressources humaines
+99,2025-03-24,Salaires,5,7456.31,Charge salaires - Administration
+100,2025-03-15,Marketing,5,1058.1,Charge marketing - Administration
+101,2025-03-09,Loyer,5,1568.39,Charge loyer - Administration
+102,2025-03-12,Transport,5,455.09,Charge transport - Administration
+103,2025-03-23,Logiciels,5,632.42,Charge logiciels - Administration
+104,2025-03-03,Fournitures,5,291.3,Charge fournitures - Administration
+105,2025-03-07,Maintenance,5,338.24,Charge maintenance - Administration
+106,2025-04-28,Salaires,1,7652.37,Charge salaires - Commercial
+107,2025-04-10,Marketing,1,1028.38,Charge marketing - Commercial
+108,2025-04-05,Loyer,1,1240.73,Charge loyer - Commercial
+109,2025-04-25,Transport,1,550.57,Charge transport - Commercial
+110,2025-04-07,Logiciels,1,537.96,Charge logiciels - Commercial
+111,2025-04-27,Fournitures,1,299.34,Charge fournitures - Commercial
+112,2025-04-30,Maintenance,1,433.92,Charge maintenance - Commercial
+113,2025-04-11,Salaires,2,6247.29,Charge salaires - Marketing
+114,2025-04-05,Marketing,2,1035.1,Charge marketing - Marketing
+115,2025-04-05,Loyer,2,1488.51,Charge loyer - Marketing
+116,2025-04-18,Transport,2,463.82,Charge transport - Marketing
+117,2025-04-20,Logiciels,2,593.02,Charge logiciels - Marketing
+118,2025-04-19,Fournitures,2,297.24,Charge fournitures - Marketing
+119,2025-04-26,Maintenance,2,360.9,Charge maintenance - Marketing
+120,2025-04-19,Salaires,3,5277.01,Charge salaires - Informatique
+121,2025-04-04,Marketing,3,1266.44,Charge marketing - Informatique
+122,2025-04-11,Loyer,3,1436.39,Charge loyer - Informatique
+123,2025-04-13,Transport,3,570.38,Charge transport - Informatique
+124,2025-04-14,Logiciels,3,614.1,Charge logiciels - Informatique
+125,2025-04-10,Fournitures,3,280.94,Charge fournitures - Informatique
+126,2025-04-24,Maintenance,3,370.45,Charge maintenance - Informatique
+127,2025-04-19,Salaires,4,6804.61,Charge salaires - Ressources humaines
+128,2025-04-10,Marketing,4,1123.93,Charge marketing - Ressources humaines
+129,2025-04-05,Loyer,4,1425.0,Charge loyer - Ressources humaines
+130,2025-04-14,Transport,4,499.74,Charge transport - Ressources humaines
+131,2025-04-28,Logiciels,4,593.21,Charge logiciels - Ressources humaines
+132,2025-04-06,Fournitures,4,270.9,Charge fournitures - Ressources humaines
+133,2025-04-25,Maintenance,4,337.64,Charge maintenance - Ressources humaines
+134,2025-04-04,Salaires,5,5224.34,Charge salaires - Administration
+135,2025-04-01,Marketing,5,1131.28,Charge marketing - Administration
+136,2025-04-16,Loyer,5,1515.52,Charge loyer - Administration
+137,2025-04-03,Transport,5,290.4,Charge transport - Administration
+138,2025-04-15,Logiciels,5,623.98,Charge logiciels - Administration
+139,2025-04-30,Fournitures,5,257.67,Charge fournitures - Administration
+140,2025-04-03,Maintenance,5,316.58,Charge maintenance - Administration
+141,2025-05-23,Salaires,1,7622.19,Charge salaires - Commercial
+142,2025-05-20,Marketing,1,1138.29,Charge marketing - Commercial
+143,2025-05-01,Loyer,1,2046.55,Charge loyer - Commercial
+144,2025-05-15,Transport,1,433.45,Charge transport - Commercial
+145,2025-05-23,Logiciels,1,510.85,Charge logiciels - Commercial
+146,2025-05-02,Fournitures,1,297.13,Charge fournitures - Commercial
+147,2025-05-24,Maintenance,1,375.2,Charge maintenance - Commercial
+148,2025-05-25,Salaires,2,7644.4,Charge salaires - Marketing
+149,2025-05-06,Marketing,2,1084.92,Charge marketing - Marketing
+150,2025-05-27,Loyer,2,1617.42,Charge loyer - Marketing
+151,2025-05-14,Transport,2,546.41,Charge transport - Marketing
+152,2025-05-21,Logiciels,2,613.56,Charge logiciels - Marketing
+153,2025-05-22,Fournitures,2,255.65,Charge fournitures - Marketing
+154,2025-05-12,Maintenance,2,400.96,Charge maintenance - Marketing
+155,2025-05-12,Salaires,3,7271.07,Charge salaires - Informatique
+156,2025-05-16,Marketing,3,930.2,Charge marketing - Informatique
+157,2025-05-17,Loyer,3,1338.83,Charge loyer - Informatique
+158,2025-05-07,Transport,3,354.55,Charge transport - Informatique
+159,2025-05-12,Logiciels,3,557.23,Charge logiciels - Informatique
+160,2025-05-07,Fournitures,3,279.55,Charge fournitures - Informatique
+161,2025-05-07,Maintenance,3,276.93,Charge maintenance - Informatique
+162,2025-05-28,Salaires,4,6373.02,Charge salaires - Ressources humaines
+163,2025-05-04,Marketing,4,1376.67,Charge marketing - Ressources humaines
+164,2025-05-30,Loyer,4,1524.99,Charge loyer - Ressources humaines
+165,2025-05-13,Transport,4,542.12,Charge transport - Ressources humaines
+166,2025-05-10,Logiciels,4,587.18,Charge logiciels - Ressources humaines
+167,2025-05-23,Fournitures,4,283.85,Charge fournitures - Ressources humaines
+168,2025-05-24,Maintenance,4,415.46,Charge maintenance - Ressources humaines
+169,2025-05-24,Salaires,5,5868.6,Charge salaires - Administration
+170,2025-05-12,Marketing,5,918.76,Charge marketing - Administration
+171,2025-05-13,Loyer,5,1663.05,Charge loyer - Administration
+172,2025-05-09,Transport,5,416.72,Charge transport - Administration
+173,2025-05-22,Logiciels,5,548.5,Charge logiciels - Administration
+174,2025-05-18,Fournitures,5,243.99,Charge fournitures - Administration
+175,2025-05-14,Maintenance,5,363.88,Charge maintenance - Administration
+176,2025-06-15,Salaires,1,6751.78,Charge salaires - Commercial
+177,2025-06-04,Marketing,1,948.19,Charge marketing - Commercial
+178,2025-06-25,Loyer,1,1373.16,Charge loyer - Commercial
+179,2025-06-09,Transport,1,419.42,Charge transport - Commercial
+180,2025-06-08,Logiciels,1,637.46,Charge logiciels - Commercial
+181,2025-06-07,Fournitures,1,291.1,Charge fournitures - Commercial
+182,2025-06-15,Maintenance,1,402.74,Charge maintenance - Commercial
+183,2025-06-28,Salaires,2,4856.39,Charge salaires - Marketing
+184,2025-06-23,Marketing,2,1363.67,Charge marketing - Marketing
+185,2025-06-11,Loyer,2,1625.41,Charge loyer - Marketing
+186,2025-06-04,Transport,2,479.6,Charge transport - Marketing
+187,2025-06-26,Logiciels,2,609.11,Charge logiciels - Marketing
+188,2025-06-12,Fournitures,2,223.47,Charge fournitures - Marketing
+189,2025-06-02,Maintenance,2,389.59,Charge maintenance - Marketing
+190,2025-06-28,Salaires,3,7523.38,Charge salaires - Informatique
+191,2025-06-01,Marketing,3,1058.4,Charge marketing - Informatique
+192,2025-06-27,Loyer,3,1356.54,Charge loyer - Informatique
+193,2025-06-14,Transport,3,301.52,Charge transport - Informatique
+194,2025-06-27,Logiciels,3,537.57,Charge logiciels - Informatique
+195,2025-06-11,Fournitures,3,265.74,Charge fournitures - Informatique
+196,2025-06-14,Maintenance,3,434.65,Charge maintenance - Informatique
+197,2025-06-18,Salaires,4,6367.1,Charge salaires - Ressources humaines
+198,2025-06-15,Marketing,4,1181.48,Charge marketing - Ressources humaines
+199,2025-06-14,Loyer,4,1706.63,Charge loyer - Ressources humaines
+200,2025-06-18,Transport,4,503.0,Charge transport - Ressources humaines
+201,2025-06-30,Logiciels,4,473.12,Charge logiciels - Ressources humaines
+202,2025-06-04,Fournitures,4,247.76,Charge fournitures - Ressources humaines
+203,2025-06-03,Maintenance,4,414.16,Charge maintenance - Ressources humaines
+204,2025-06-26,Salaires,5,5774.39,Charge salaires - Administration
+205,2025-06-04,Marketing,5,1300.16,Charge marketing - Administration
+206,2025-06-27,Loyer,5,1761.27,Charge loyer - Administration
+207,2025-06-23,Transport,5,462.8,Charge transport - Administration
+208,2025-06-09,Logiciels,5,640.01,Charge logiciels - Administration
+209,2025-06-13,Fournitures,5,272.05,Charge fournitures - Administration
+210,2025-06-11,Maintenance,5,343.37,Charge maintenance - Administration
+211,2025-07-07,Salaires,1,6929.93,Charge salaires - Commercial
+212,2025-07-06,Marketing,1,893.15,Charge marketing - Commercial
+213,2025-07-20,Loyer,1,1460.93,Charge loyer - Commercial
+214,2025-07-30,Transport,1,430.26,Charge transport - Commercial
+215,2025-07-01,Logiciels,1,459.19,Charge logiciels - Commercial
+216,2025-07-22,Fournitures,1,255.52,Charge fournitures - Commercial
+217,2025-07-07,Maintenance,1,415.18,Charge maintenance - Commercial
+218,2025-07-26,Salaires,2,6386.27,Charge salaires - Marketing
+219,2025-07-24,Marketing,2,1048.25,Charge marketing - Marketing
+220,2025-07-05,Loyer,2,1443.22,Charge loyer - Marketing
+221,2025-07-14,Transport,2,388.07,Charge transport - Marketing
+222,2025-07-08,Logiciels,2,508.1,Charge logiciels - Marketing
+223,2025-07-18,Fournitures,2,240.91,Charge fournitures - Marketing
+224,2025-07-09,Maintenance,2,413.28,Charge maintenance - Marketing
+225,2025-07-22,Salaires,3,5262.06,Charge salaires - Informatique
+226,2025-07-08,Marketing,3,1070.97,Charge marketing - Informatique
+227,2025-07-18,Loyer,3,1665.57,Charge loyer - Informatique
+228,2025-07-12,Transport,3,371.51,Charge transport - Informatique
+229,2025-07-21,Logiciels,3,466.68,Charge logiciels - Informatique
+230,2025-07-01,Fournitures,3,314.57,Charge fournitures - Informatique
+231,2025-07-28,Maintenance,3,279.03,Charge maintenance - Informatique
+232,2025-07-02,Salaires,4,7427.91,Charge salaires - Ressources humaines
+233,2025-07-23,Marketing,4,1079.8,Charge marketing - Ressources humaines
+234,2025-07-26,Loyer,4,1465.01,Charge loyer - Ressources humaines
+235,2025-07-11,Transport,4,443.55,Charge transport - Ressources humaines
+236,2025-07-24,Logiciels,4,395.27,Charge logiciels - Ressources humaines
+237,2025-07-06,Fournitures,4,311.68,Charge fournitures - Ressources humaines
+238,2025-07-07,Maintenance,4,359.23,Charge maintenance - Ressources humaines
+239,2025-07-23,Salaires,5,5418.58,Charge salaires - Administration
+240,2025-07-27,Marketing,5,1077.05,Charge marketing - Administration
+241,2025-07-05,Loyer,5,1459.92,Charge loyer - Administration
+242,2025-07-31,Transport,5,474.44,Charge transport - Administration
+243,2025-07-08,Logiciels,5,571.18,Charge logiciels - Administration
+244,2025-07-29,Fournitures,5,333.01,Charge fournitures - Administration
+245,2025-07-03,Maintenance,5,331.32,Charge maintenance - Administration
+246,2025-08-24,Salaires,1,7383.5,Charge salaires - Commercial
+247,2025-08-05,Marketing,1,1266.92,Charge marketing - Commercial
+248,2025-08-07,Loyer,1,1540.03,Charge loyer - Commercial
+249,2025-08-08,Transport,1,523.34,Charge transport - Commercial
+250,2025-08-09,Logiciels,1,562.89,Charge logiciels - Commercial
+251,2025-08-17,Fournitures,1,272.69,Charge fournitures - Commercial
+252,2025-08-25,Maintenance,1,393.14,Charge maintenance - Commercial
+253,2025-08-04,Salaires,2,6303.15,Charge salaires - Marketing
+254,2025-08-08,Marketing,2,1110.38,Charge marketing - Marketing
+255,2025-08-16,Loyer,2,1469.81,Charge loyer - Marketing
+256,2025-08-13,Transport,2,607.37,Charge transport - Marketing
+257,2025-08-20,Logiciels,2,432.72,Charge logiciels - Marketing
+258,2025-08-13,Fournitures,2,254.46,Charge fournitures - Marketing
+259,2025-08-25,Maintenance,2,406.33,Charge maintenance - Marketing
+260,2025-08-20,Salaires,3,7094.25,Charge salaires - Informatique
+261,2025-08-13,Marketing,3,1255.17,Charge marketing - Informatique
+262,2025-08-29,Loyer,3,1817.35,Charge loyer - Informatique
+263,2025-08-03,Transport,3,323.41,Charge transport - Informatique
+264,2025-08-08,Logiciels,3,574.75,Charge logiciels - Informatique
+265,2025-08-17,Fournitures,3,316.22,Charge fournitures - Informatique
+266,2025-08-10,Maintenance,3,342.12,Charge maintenance - Informatique
+267,2025-08-19,Salaires,4,6613.83,Charge salaires - Ressources humaines
+268,2025-08-04,Marketing,4,1137.37,Charge marketing - Ressources humaines
+269,2025-08-04,Loyer,4,1808.23,Charge loyer - Ressources humaines
+270,2025-08-23,Transport,4,502.59,Charge transport - Ressources humaines
+271,2025-08-06,Logiciels,4,550.55,Charge logiciels - Ressources humaines
+272,2025-08-17,Fournitures,4,230.57,Charge fournitures - Ressources humaines
+273,2025-08-05,Maintenance,4,402.94,Charge maintenance - Ressources humaines
+274,2025-08-24,Salaires,5,6140.53,Charge salaires - Administration
+275,2025-08-31,Marketing,5,1185.59,Charge marketing - Administration
+276,2025-08-08,Loyer,5,1610.26,Charge loyer - Administration
+277,2025-08-16,Transport,5,443.56,Charge transport - Administration
+278,2025-08-19,Logiciels,5,538.21,Charge logiciels - Administration
+279,2025-08-30,Fournitures,5,256.68,Charge fournitures - Administration
+280,2025-08-29,Maintenance,5,438.04,Charge maintenance - Administration
+281,2025-09-09,Salaires,1,6918.31,Charge salaires - Commercial
+282,2025-09-21,Marketing,1,1068.79,Charge marketing - Commercial
+283,2025-09-11,Loyer,1,1299.1,Charge loyer - Commercial
+284,2025-09-24,Transport,1,354.97,Charge transport - Commercial
+285,2025-09-25,Logiciels,1,599.62,Charge logiciels - Commercial
+286,2025-09-28,Fournitures,1,360.2,Charge fournitures - Commercial
+287,2025-09-11,Maintenance,1,329.83,Charge maintenance - Commercial
+288,2025-09-20,Salaires,2,7902.66,Charge salaires - Marketing
+289,2025-09-07,Marketing,2,1257.26,Charge marketing - Marketing
+290,2025-09-03,Loyer,2,1643.0,Charge loyer - Marketing
+291,2025-09-03,Transport,2,450.11,Charge transport - Marketing
+292,2025-09-09,Logiciels,2,503.89,Charge logiciels - Marketing
+293,2025-09-19,Fournitures,2,277.0,Charge fournitures - Marketing
+294,2025-09-30,Maintenance,2,386.16,Charge maintenance - Marketing
+295,2025-09-08,Salaires,3,6851.02,Charge salaires - Informatique
+296,2025-09-24,Marketing,3,886.81,Charge marketing - Informatique
+297,2025-09-09,Loyer,3,1789.8,Charge loyer - Informatique
+298,2025-09-20,Transport,3,410.8,Charge transport - Informatique
+299,2025-09-14,Logiciels,3,531.48,Charge logiciels - Informatique
+300,2025-09-07,Fournitures,3,245.55,Charge fournitures - Informatique
+301,2025-09-19,Maintenance,3,355.48,Charge maintenance - Informatique
+302,2025-09-15,Salaires,4,6001.19,Charge salaires - Ressources humaines
+303,2025-09-25,Marketing,4,1184.51,Charge marketing - Ressources humaines
+304,2025-09-26,Loyer,4,1647.61,Charge loyer - Ressources humaines
+305,2025-09-13,Transport,4,442.36,Charge transport - Ressources humaines
+306,2025-09-29,Logiciels,4,514.7,Charge logiciels - Ressources humaines
+307,2025-09-16,Fournitures,4,227.16,Charge fournitures - Ressources humaines
+308,2025-09-26,Maintenance,4,355.75,Charge maintenance - Ressources humaines
+309,2025-09-17,Salaires,5,5525.73,Charge salaires - Administration
+310,2025-09-16,Marketing,5,1038.52,Charge marketing - Administration
+311,2025-09-24,Loyer,5,2055.92,Charge loyer - Administration
+312,2025-09-07,Transport,5,461.0,Charge transport - Administration
+313,2025-09-14,Logiciels,5,475.56,Charge logiciels - Administration
+314,2025-09-22,Fournitures,5,284.75,Charge fournitures - Administration
+315,2025-09-28,Maintenance,5,273.96,Charge maintenance - Administration
+316,2025-10-17,Salaires,1,7984.27,Charge salaires - Commercial
+317,2025-10-02,Marketing,1,1040.15,Charge marketing - Commercial
+318,2025-10-20,Loyer,1,1796.78,Charge loyer - Commercial
+319,2025-10-26,Transport,1,441.15,Charge transport - Commercial
+320,2025-10-26,Logiciels,1,399.8,Charge logiciels - Commercial
+321,2025-10-04,Fournitures,1,301.54,Charge fournitures - Commercial
+322,2025-10-05,Maintenance,1,333.82,Charge maintenance - Commercial
+323,2025-10-22,Salaires,2,6598.75,Charge salaires - Marketing
+324,2025-10-29,Marketing,2,1030.25,Charge marketing - Marketing
+325,2025-10-10,Loyer,2,1716.41,Charge loyer - Marketing
+326,2025-10-07,Transport,2,506.56,Charge transport - Marketing
+327,2025-10-12,Logiciels,2,457.75,Charge logiciels - Marketing
+328,2025-10-03,Fournitures,2,344.61,Charge fournitures - Marketing
+329,2025-10-01,Maintenance,2,431.41,Charge maintenance - Marketing
+330,2025-10-05,Salaires,3,5766.39,Charge salaires - Informatique
+331,2025-10-03,Marketing,3,1030.14,Charge marketing - Informatique
+332,2025-10-25,Loyer,3,1607.2,Charge loyer - Informatique
+333,2025-10-10,Transport,3,445.09,Charge transport - Informatique
+334,2025-10-20,Logiciels,3,535.85,Charge logiciels - Informatique
+335,2025-10-13,Fournitures,3,231.55,Charge fournitures - Informatique
+336,2025-10-14,Maintenance,3,421.71,Charge maintenance - Informatique
+337,2025-10-03,Salaires,4,5432.7,Charge salaires - Ressources humaines
+338,2025-10-06,Marketing,4,991.79,Charge marketing - Ressources humaines
+339,2025-10-14,Loyer,4,1621.38,Charge loyer - Ressources humaines
+340,2025-10-05,Transport,4,529.78,Charge transport - Ressources humaines
+341,2025-10-22,Logiciels,4,583.43,Charge logiciels - Ressources humaines
+342,2025-10-11,Fournitures,4,302.55,Charge fournitures - Ressources humaines
+343,2025-10-28,Maintenance,4,344.68,Charge maintenance - Ressources humaines
+344,2025-10-03,Salaires,5,6744.78,Charge salaires - Administration
+345,2025-10-24,Marketing,5,1035.09,Charge marketing - Administration
+346,2025-10-07,Loyer,5,1451.29,Charge loyer - Administration
+347,2025-10-04,Transport,5,416.58,Charge transport - Administration
+348,2025-10-10,Logiciels,5,512.67,Charge logiciels - Administration
+349,2025-10-11,Fournitures,5,316.93,Charge fournitures - Administration
+350,2025-10-18,Maintenance,5,457.97,Charge maintenance - Administration
+351,2025-11-05,Salaires,1,8268.76,Charge salaires - Commercial
+352,2025-11-19,Marketing,1,1109.3,Charge marketing - Commercial
+353,2025-11-19,Loyer,1,1374.17,Charge loyer - Commercial
+354,2025-11-21,Transport,1,415.98,Charge transport - Commercial
+355,2025-11-23,Logiciels,1,480.23,Charge logiciels - Commercial
+356,2025-11-14,Fournitures,1,275.15,Charge fournitures - Commercial
+357,2025-11-30,Maintenance,1,324.52,Charge maintenance - Commercial
+358,2025-11-07,Salaires,2,5784.15,Charge salaires - Marketing
+359,2025-11-24,Marketing,2,1470.86,Charge marketing - Marketing
+360,2025-11-08,Loyer,2,1540.29,Charge loyer - Marketing
+361,2025-11-02,Transport,2,425.63,Charge transport - Marketing
+362,2025-11-23,Logiciels,2,464.51,Charge logiciels - Marketing
+363,2025-11-03,Fournitures,2,337.32,Charge fournitures - Marketing
+364,2025-11-19,Maintenance,2,393.54,Charge maintenance - Marketing
+365,2025-11-29,Salaires,3,5449.49,Charge salaires - Informatique
+366,2025-11-16,Marketing,3,951.97,Charge marketing - Informatique
+367,2025-11-04,Loyer,3,1880.77,Charge loyer - Informatique
+368,2025-11-03,Transport,3,455.15,Charge transport - Informatique
+369,2025-11-16,Logiciels,3,389.2,Charge logiciels - Informatique
+370,2025-11-28,Fournitures,3,303.11,Charge fournitures - Informatique
+371,2025-11-30,Maintenance,3,435.31,Charge maintenance - Informatique
+372,2025-11-29,Salaires,4,5258.23,Charge salaires - Ressources humaines
+373,2025-11-13,Marketing,4,1139.8,Charge marketing - Ressources humaines
+374,2025-11-07,Loyer,4,1281.6,Charge loyer - Ressources humaines
+375,2025-11-20,Transport,4,449.57,Charge transport - Ressources humaines
+376,2025-11-13,Logiciels,4,530.15,Charge logiciels - Ressources humaines
+377,2025-11-22,Fournitures,4,217.77,Charge fournitures - Ressources humaines
+378,2025-11-01,Maintenance,4,365.07,Charge maintenance - Ressources humaines
+379,2025-11-04,Salaires,5,6384.5,Charge salaires - Administration
+380,2025-11-29,Marketing,5,1041.52,Charge marketing - Administration
+381,2025-11-06,Loyer,5,1592.38,Charge loyer - Administration
+382,2025-11-10,Transport,5,433.56,Charge transport - Administration
+383,2025-11-09,Logiciels,5,522.96,Charge logiciels - Administration
+384,2025-11-23,Fournitures,5,215.46,Charge fournitures - Administration
+385,2025-11-29,Maintenance,5,401.75,Charge maintenance - Administration
+386,2025-12-16,Salaires,1,6530.96,Charge salaires - Commercial
+387,2025-12-12,Marketing,1,1226.82,Charge marketing - Commercial
+388,2025-12-31,Loyer,1,1221.02,Charge loyer - Commercial
+389,2025-12-11,Transport,1,464.79,Charge transport - Commercial
+390,2025-12-08,Logiciels,1,561.23,Charge logiciels - Commercial
+391,2025-12-24,Fournitures,1,264.47,Charge fournitures - Commercial
+392,2025-12-31,Maintenance,1,422.53,Charge maintenance - Commercial
+393,2025-12-11,Salaires,2,6877.51,Charge salaires - Marketing
+394,2025-12-20,Marketing,2,821.79,Charge marketing - Marketing
+395,2025-12-10,Loyer,2,1747.69,Charge loyer - Marketing
+396,2025-12-07,Transport,2,484.81,Charge transport - Marketing
+397,2025-12-07,Logiciels,2,491.94,Charge logiciels - Marketing
+398,2025-12-10,Fournitures,2,308.91,Charge fournitures - Marketing
+399,2025-12-14,Maintenance,2,451.08,Charge maintenance - Marketing
+400,2025-12-31,Salaires,3,6323.37,Charge salaires - Informatique
+401,2025-12-30,Marketing,3,1198.64,Charge marketing - Informatique
+402,2025-12-09,Loyer,3,1385.47,Charge loyer - Informatique
+403,2025-12-03,Transport,3,472.39,Charge transport - Informatique
+404,2025-12-18,Logiciels,3,555.81,Charge logiciels - Informatique
+405,2025-12-13,Fournitures,3,287.38,Charge fournitures - Informatique
+406,2025-12-13,Maintenance,3,447.41,Charge maintenance - Informatique
+407,2025-12-14,Salaires,4,5797.46,Charge salaires - Ressources humaines
+408,2025-12-11,Marketing,4,1101.45,Charge marketing - Ressources humaines
+409,2025-12-17,Loyer,4,1768.76,Charge loyer - Ressources humaines
+410,2025-12-27,Transport,4,379.24,Charge transport - Ressources humaines
+411,2025-12-04,Logiciels,4,415.51,Charge logiciels - Ressources humaines
+412,2025-12-24,Fournitures,4,242.42,Charge fournitures - Ressources humaines
+413,2025-12-31,Maintenance,4,362.46,Charge maintenance - Ressources humaines
+414,2025-12-10,Salaires,5,5999.6,Charge salaires - Administration
+415,2025-12-28,Marketing,5,1130.53,Charge marketing - Administration
+416,2025-12-09,Loyer,5,1729.05,Charge loyer - Administration
+417,2025-12-29,Transport,5,475.66,Charge transport - Administration
+418,2025-12-19,Logiciels,5,538.87,Charge logiciels - Administration
+419,2025-12-04,Fournitures,5,315.07,Charge fournitures - Administration
+420,2025-12-05,Maintenance,5,316.3,Charge maintenance - Administration

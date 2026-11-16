@@ -1,0 +1,1 @@
+pandas>=2.0\nnumpy>=1.24\nSQLAlchemy>=2.0\nPyMySQL>=1.1\npython-dotenv>=1.0\n

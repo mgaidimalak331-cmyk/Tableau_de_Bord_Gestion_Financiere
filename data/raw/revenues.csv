@@ -1,0 +1,421 @@
+revenue_id,revenue_date,category,amount_tnd,department_id
+1,2025-01-21,Prestations,835.08,3
+2,2025-01-07,Prestations,465.61,1
+3,2025-01-23,Prestations,696.98,4
+4,2025-01-16,Ventes produits,1090.0,2
+5,2025-01-13,Prestations,784.15,5
+6,2025-01-03,Ventes produits,777.4,3
+7,2025-01-09,Abonnements,266.72,4
+8,2025-01-03,Ventes produits,922.18,5
+9,2025-01-24,Prestations,795.82,1
+10,2025-01-17,Ventes produits,1027.55,1
+11,2025-01-12,Prestations,607.8,5
+12,2025-01-03,Ventes produits,1153.22,3
+13,2025-01-22,Ventes produits,801.59,3
+14,2025-01-30,Prestations,797.77,3
+15,2025-01-14,Abonnements,321.0,5
+16,2025-01-08,Ventes produits,990.25,4
+17,2025-01-25,Ventes produits,1002.04,1
+18,2025-01-15,Prestations,642.46,4
+19,2025-01-16,Ventes produits,900.47,3
+20,2025-01-14,Ventes produits,1124.29,4
+21,2025-01-03,Prestations,729.3,4
+22,2025-01-03,Prestations,842.8,3
+23,2025-01-11,Ventes produits,1104.44,3
+24,2025-01-31,Ventes produits,746.01,5
+25,2025-01-27,Ventes produits,975.64,2
+26,2025-01-04,Prestations,728.54,3
+27,2025-01-13,Prestations,782.22,3
+28,2025-01-11,Ventes produits,881.29,1
+29,2025-01-22,Prestations,615.51,3
+30,2025-01-30,Ventes produits,1030.38,1
+31,2025-01-06,Ventes produits,873.81,2
+32,2025-01-19,Prestations,439.52,2
+33,2025-01-11,Ventes produits,1021.96,5
+34,2025-01-15,Prestations,933.86,2
+35,2025-01-09,Prestations,531.95,4
+36,2025-02-03,Ventes produits,888.97,1
+37,2025-02-20,Ventes produits,1028.2,2
+38,2025-02-16,Prestations,439.71,1
+39,2025-02-14,Prestations,741.88,4
+40,2025-02-04,Prestations,656.92,3
+41,2025-02-22,Ventes produits,989.6,3
+42,2025-02-06,Ventes produits,1014.24,2
+43,2025-02-05,Ventes produits,834.84,3
+44,2025-02-28,Abonnements,80.0,3
+45,2025-02-09,Prestations,435.25,1
+46,2025-02-14,Ventes produits,1100.86,4
+47,2025-02-19,Ventes produits,1024.59,3
+48,2025-02-16,Prestations,748.19,3
+49,2025-02-16,Ventes produits,839.82,3
+50,2025-02-11,Ventes produits,978.27,5
+51,2025-02-09,Ventes produits,648.56,3
+52,2025-02-04,Prestations,750.52,2
+53,2025-02-27,Prestations,876.89,4
+54,2025-02-28,Abonnements,126.28,2
+55,2025-02-16,Prestations,552.15,2
+56,2025-02-27,Abonnements,467.68,2
+57,2025-02-18,Ventes produits,942.66,3
+58,2025-02-06,Abonnements,218.1,1
+59,2025-02-28,Ventes produits,981.07,5
+60,2025-02-24,Prestations,678.65,5
+61,2025-02-14,Ventes produits,989.49,2
+62,2025-02-12,Prestations,777.18,2
+63,2025-02-11,Prestations,479.6,2
+64,2025-02-01,Ventes produits,1260.26,1
+65,2025-02-21,Ventes produits,1213.06,1
+66,2025-02-02,Abonnements,138.95,1
+67,2025-02-09,Prestations,699.08,5
+68,2025-02-27,Ventes produits,1203.35,1
+69,2025-02-01,Ventes produits,580.97,4
+70,2025-02-26,Ventes produits,730.61,4
+71,2025-03-27,Ventes produits,1114.86,5
+72,2025-03-26,Prestations,612.85,1
+73,2025-03-05,Ventes produits,1046.86,3
+74,2025-03-17,Abonnements,174.73,2
+75,2025-03-19,Ventes produits,981.78,3
+76,2025-03-23,Ventes produits,991.08,1
+77,2025-03-06,Abonnements,146.42,3
+78,2025-03-14,Abonnements,193.67,3
+79,2025-03-21,Ventes produits,818.76,1
+80,2025-03-15,Prestations,670.72,2
+81,2025-03-29,Prestations,1097.99,5
+82,2025-03-04,Ventes produits,1152.29,2
+83,2025-03-30,Prestations,435.93,5
+84,2025-03-09,Ventes produits,752.58,2
+85,2025-03-30,Abonnements,89.12,1
+86,2025-03-12,Prestations,1011.17,1
+87,2025-03-29,Ventes produits,1089.92,1
+88,2025-03-05,Ventes produits,925.91,2
+89,2025-03-17,Ventes produits,902.05,1
+90,2025-03-26,Ventes produits,1034.88,1
+91,2025-03-25,Prestations,763.32,2
+92,2025-03-23,Ventes produits,820.12,5
+93,2025-03-16,Ventes produits,1456.54,1
+94,2025-03-20,Ventes produits,1019.45,3
+95,2025-03-01,Ventes produits,997.01,2
+96,2025-03-03,Ventes produits,997.29,5
+97,2025-03-22,Abonnements,466.94,1
+98,2025-03-08,Abonnements,215.13,5
+99,2025-03-20,Prestations,647.41,4
+100,2025-03-26,Ventes produits,977.46,3
+101,2025-03-26,Abonnements,257.37,3
+102,2025-03-08,Prestations,633.06,2
+103,2025-03-06,Ventes produits,1260.92,3
+104,2025-03-16,Ventes produits,890.87,2
+105,2025-03-06,Ventes produits,889.8,4
+106,2025-04-21,Abonnements,611.82,5
+107,2025-04-14,Ventes produits,1263.91,3
+108,2025-04-07,Prestations,646.62,5
+109,2025-04-03,Prestations,878.13,2
+110,2025-04-18,Ventes produits,915.68,4
+111,2025-04-20,Prestations,1027.72,1
+112,2025-04-16,Ventes produits,937.95,5
+113,2025-04-06,Abonnements,572.02,5
+114,2025-04-30,Prestations,517.53,4
+115,2025-04-22,Ventes produits,829.19,3
+116,2025-04-06,Prestations,907.96,1
+117,2025-04-15,Prestations,754.79,3
+118,2025-04-28,Prestations,990.92,4
+119,2025-04-05,Prestations,806.36,5
+120,2025-04-22,Ventes produits,1016.3,1
+121,2025-04-28,Ventes produits,1096.48,4
+122,2025-04-23,Ventes produits,992.19,5
+123,2025-04-24,Ventes produits,923.44,2
+124,2025-04-29,Ventes produits,1129.97,1
+125,2025-04-23,Ventes produits,1216.66,2
+126,2025-04-29,Prestations,736.42,5
+127,2025-04-05,Ventes produits,1189.21,2
+128,2025-04-26,Prestations,799.74,5
+129,2025-04-27,Abonnements,80.0,4
+130,2025-04-01,Prestations,719.42,4
+131,2025-04-22,Ventes produits,724.7,5
+132,2025-04-10,Ventes produits,1029.13,3
+133,2025-04-23,Abonnements,80.0,4
+134,2025-04-02,Abonnements,215.08,5
+135,2025-04-02,Abonnements,324.88,1
+136,2025-04-21,Ventes produits,1045.41,5
+137,2025-04-14,Ventes produits,985.42,1
+138,2025-04-01,Ventes produits,1043.81,5
+139,2025-04-01,Ventes produits,1099.31,1
+140,2025-04-30,Prestations,433.21,5
+141,2025-05-08,Abonnements,434.9,1
+142,2025-05-04,Abonnements,496.06,4
+143,2025-05-14,Abonnements,161.5,1
+144,2025-05-22,Ventes produits,1193.65,3
+145,2025-05-03,Prestations,593.01,5
+146,2025-05-02,Prestations,635.56,1
+147,2025-05-17,Prestations,451.21,5
+148,2025-05-03,Ventes produits,1035.45,4
+149,2025-05-15,Abonnements,467.09,4
+150,2025-05-24,Ventes produits,757.44,1
+151,2025-05-17,Ventes produits,915.94,4
+152,2025-05-14,Prestations,937.72,1
+153,2025-05-13,Ventes produits,1142.1,3
+154,2025-05-14,Prestations,769.01,5
+155,2025-05-22,Ventes produits,1301.18,3
+156,2025-05-31,Ventes produits,978.83,1
+157,2025-05-20,Ventes produits,1009.95,3
+158,2025-05-31,Prestations,549.99,3
+159,2025-05-30,Ventes produits,748.87,3
+160,2025-05-10,Ventes produits,1298.7,3
+161,2025-05-03,Ventes produits,1012.59,3
+162,2025-05-17,Prestations,733.36,4
+163,2025-05-08,Ventes produits,1141.49,4
+164,2025-05-17,Ventes produits,1417.58,4
+165,2025-05-26,Ventes produits,966.47,4
+166,2025-05-27,Abonnements,269.33,3
+167,2025-05-08,Prestations,546.72,2
+168,2025-05-02,Ventes produits,1069.81,1
+169,2025-05-26,Abonnements,248.48,1
+170,2025-05-16,Ventes produits,1118.4,1
+171,2025-05-28,Prestations,341.65,1
+172,2025-05-13,Abonnements,461.13,2
+173,2025-05-21,Prestations,166.38,1
+174,2025-05-03,Abonnements,378.28,5
+175,2025-05-24,Ventes produits,669.03,4
+176,2025-06-28,Ventes produits,934.5,4
+177,2025-06-23,Ventes produits,1070.3,3
+178,2025-06-13,Ventes produits,1243.21,5
+179,2025-06-07,Prestations,940.44,5
+180,2025-06-16,Ventes produits,870.34,3
+181,2025-06-26,Ventes produits,996.48,4
+182,2025-06-28,Ventes produits,780.6,1
+183,2025-06-29,Abonnements,80.0,1
+184,2025-06-06,Ventes produits,1156.61,3
+185,2025-06-01,Ventes produits,646.44,1
+186,2025-06-26,Abonnements,267.74,4
+187,2025-06-24,Prestations,736.61,4
+188,2025-06-23,Ventes produits,1069.28,3
+189,2025-06-10,Abonnements,353.36,3
+190,2025-06-12,Abonnements,244.73,3
+191,2025-06-04,Prestations,476.0,5
+192,2025-06-26,Ventes produits,790.02,3
+193,2025-06-30,Ventes produits,959.21,5
+194,2025-06-01,Ventes produits,1083.09,2
+195,2025-06-19,Ventes produits,1048.72,5
+196,2025-06-05,Ventes produits,937.76,3
+197,2025-06-06,Ventes produits,984.17,4
+198,2025-06-25,Abonnements,524.63,4
+199,2025-06-20,Prestations,266.21,5
+200,2025-06-19,Abonnements,107.02,4
+201,2025-06-16,Ventes produits,738.21,4
+202,2025-06-29,Prestations,990.0,4
+203,2025-06-05,Abonnements,627.83,2
+204,2025-06-20,Prestations,402.68,2
+205,2025-06-16,Ventes produits,856.29,4
+206,2025-06-26,Abonnements,80.0,3
+207,2025-06-03,Ventes produits,1179.4,4
+208,2025-06-17,Prestations,797.4,5
+209,2025-06-08,Abonnements,80.0,1
+210,2025-06-12,Ventes produits,992.35,1
+211,2025-07-21,Prestations,554.81,4
+212,2025-07-13,Prestations,743.5,5
+213,2025-07-04,Ventes produits,870.68,4
+214,2025-07-30,Ventes produits,838.46,3
+215,2025-07-24,Ventes produits,875.91,3
+216,2025-07-08,Prestations,265.7,2
+217,2025-07-25,Ventes produits,877.05,5
+218,2025-07-14,Prestations,648.48,2
+219,2025-07-27,Abonnements,404.32,1
+220,2025-07-14,Ventes produits,1075.86,4
+221,2025-07-20,Abonnements,239.28,2
+222,2025-07-04,Ventes produits,638.48,3
+223,2025-07-16,Ventes produits,1282.61,5
+224,2025-07-04,Ventes produits,751.33,2
+225,2025-07-18,Ventes produits,793.57,1
+226,2025-07-28,Prestations,641.72,2
+227,2025-07-30,Abonnements,137.56,4
+228,2025-07-11,Ventes produits,642.98,5
+229,2025-07-28,Ventes produits,855.91,5
+230,2025-07-07,Prestations,749.03,3
+231,2025-07-27,Ventes produits,1100.45,2
+232,2025-07-11,Ventes produits,1019.32,5
+233,2025-07-08,Prestations,669.95,4
+234,2025-07-27,Ventes produits,1175.31,3
+235,2025-07-08,Prestations,609.85,5
+236,2025-07-15,Prestations,842.34,1
+237,2025-07-14,Ventes produits,873.54,4
+238,2025-07-29,Ventes produits,1121.37,3
+239,2025-07-23,Abonnements,159.17,1
+240,2025-07-18,Ventes produits,785.27,1
+241,2025-07-25,Ventes produits,905.89,2
+242,2025-07-20,Ventes produits,1138.85,2
+243,2025-07-14,Prestations,800.54,2
+244,2025-07-08,Ventes produits,947.54,3
+245,2025-07-13,Ventes produits,947.82,5
+246,2025-08-09,Ventes produits,668.57,3
+247,2025-08-18,Ventes produits,765.99,4
+248,2025-08-08,Ventes produits,539.47,2
+249,2025-08-27,Ventes produits,1213.01,4
+250,2025-08-08,Ventes produits,744.77,5
+251,2025-08-27,Ventes produits,960.49,4
+252,2025-08-10,Ventes produits,1000.07,1
+253,2025-08-29,Ventes produits,1095.26,1
+254,2025-08-22,Ventes produits,1130.31,4
+255,2025-08-08,Prestations,365.23,3
+256,2025-08-09,Ventes produits,1273.57,5
+257,2025-08-28,Ventes produits,789.24,4
+258,2025-08-08,Ventes produits,767.29,5
+259,2025-08-29,Prestations,904.49,5
+260,2025-08-05,Abonnements,415.13,2
+261,2025-08-10,Prestations,814.37,2
+262,2025-08-26,Ventes produits,1011.34,1
+263,2025-08-12,Ventes produits,849.89,1
+264,2025-08-27,Prestations,1011.22,4
+265,2025-08-04,Ventes produits,1193.11,5
+266,2025-08-25,Ventes produits,753.18,1
+267,2025-08-25,Ventes produits,715.52,3
+268,2025-08-29,Ventes produits,1273.56,1
+269,2025-08-13,Prestations,744.78,1
+270,2025-08-13,Abonnements,105.16,3
+271,2025-08-23,Ventes produits,724.94,1
+272,2025-08-11,Ventes produits,628.39,4
+273,2025-08-02,Ventes produits,1140.66,3
+274,2025-08-27,Abonnements,147.89,2
+275,2025-08-17,Prestations,768.27,2
+276,2025-08-24,Prestations,676.2,3
+277,2025-08-05,Abonnements,339.1,3
+278,2025-08-02,Ventes produits,995.52,4
+279,2025-08-30,Ventes produits,1006.06,1
+280,2025-08-05,Ventes produits,999.18,4
+281,2025-09-08,Abonnements,558.8,1
+282,2025-09-30,Abonnements,90.83,5
+283,2025-09-27,Ventes produits,955.24,4
+284,2025-09-13,Ventes produits,1168.55,3
+285,2025-09-17,Prestations,981.06,4
+286,2025-09-24,Ventes produits,814.48,5
+287,2025-09-16,Prestations,956.95,1
+288,2025-09-14,Prestations,1042.91,1
+289,2025-09-25,Ventes produits,933.21,4
+290,2025-09-19,Ventes produits,1522.19,2
+291,2025-09-12,Prestations,874.42,3
+292,2025-09-16,Abonnements,463.55,3
+293,2025-09-11,Ventes produits,952.52,2
+294,2025-09-10,Ventes produits,601.35,4
+295,2025-09-22,Abonnements,80.0,2
+296,2025-09-18,Prestations,575.17,5
+297,2025-09-30,Ventes produits,876.75,1
+298,2025-09-14,Ventes produits,1000.2,2
+299,2025-09-03,Ventes produits,961.34,5
+300,2025-09-27,Ventes produits,947.78,1
+301,2025-09-10,Ventes produits,944.96,4
+302,2025-09-04,Abonnements,100.0,5
+303,2025-09-18,Abonnements,352.01,1
+304,2025-09-07,Ventes produits,499.69,3
+305,2025-09-23,Abonnements,199.61,4
+306,2025-09-03,Ventes produits,893.89,2
+307,2025-09-12,Abonnements,144.78,3
+308,2025-09-26,Ventes produits,1020.14,2
+309,2025-09-01,Prestations,985.89,4
+310,2025-09-13,Abonnements,259.42,1
+311,2025-09-12,Ventes produits,756.28,2
+312,2025-09-20,Ventes produits,1050.0,3
+313,2025-09-27,Ventes produits,1158.35,4
+314,2025-09-23,Abonnements,395.29,2
+315,2025-09-10,Ventes produits,892.78,2
+316,2025-10-03,Abonnements,197.14,5
+317,2025-10-09,Ventes produits,919.45,3
+318,2025-10-26,Ventes produits,963.63,3
+319,2025-10-06,Ventes produits,1159.76,5
+320,2025-10-05,Abonnements,406.12,1
+321,2025-10-06,Ventes produits,1119.25,2
+322,2025-10-05,Ventes produits,1109.55,5
+323,2025-10-03,Prestations,752.08,3
+324,2025-10-21,Ventes produits,422.49,1
+325,2025-10-26,Abonnements,80.0,4
+326,2025-10-26,Ventes produits,740.76,5
+327,2025-10-29,Ventes produits,862.87,2
+328,2025-10-02,Prestations,773.45,4
+329,2025-10-07,Ventes produits,769.58,5
+330,2025-10-24,Prestations,454.35,1
+331,2025-10-28,Ventes produits,1116.38,1
+332,2025-10-14,Ventes produits,930.89,1
+333,2025-10-05,Ventes produits,770.05,5
+334,2025-10-23,Prestations,625.78,3
+335,2025-10-03,Prestations,783.41,3
+336,2025-10-18,Ventes produits,1082.4,1
+337,2025-10-19,Abonnements,80.0,1
+338,2025-10-24,Abonnements,408.78,4
+339,2025-10-24,Ventes produits,1106.7,4
+340,2025-10-23,Abonnements,536.67,2
+341,2025-10-28,Ventes produits,1088.03,3
+342,2025-10-23,Ventes produits,1098.28,5
+343,2025-10-13,Prestations,625.39,2
+344,2025-10-09,Ventes produits,1011.24,1
+345,2025-10-05,Prestations,836.12,4
+346,2025-10-28,Ventes produits,1209.61,2
+347,2025-10-30,Prestations,511.89,5
+348,2025-10-06,Prestations,650.71,1
+349,2025-10-09,Ventes produits,1011.18,2
+350,2025-10-23,Abonnements,410.9,2
+351,2025-11-24,Prestations,307.56,5
+352,2025-11-10,Ventes produits,1138.2,4
+353,2025-11-16,Abonnements,209.94,2
+354,2025-11-17,Ventes produits,949.75,3
+355,2025-11-11,Prestations,845.02,3
+356,2025-11-10,Abonnements,475.3,2
+357,2025-11-14,Ventes produits,812.78,4
+358,2025-11-13,Ventes produits,1047.67,5
+359,2025-11-29,Abonnements,80.0,5
+360,2025-11-07,Prestations,1140.12,4
+361,2025-11-21,Ventes produits,976.97,2
+362,2025-11-10,Ventes produits,1030.05,2
+363,2025-11-09,Ventes produits,867.84,2
+364,2025-11-18,Abonnements,289.15,1
+365,2025-11-14,Ventes produits,1210.12,4
+366,2025-11-21,Ventes produits,749.37,4
+367,2025-11-14,Ventes produits,785.68,5
+368,2025-11-01,Ventes produits,1455.66,3
+369,2025-11-09,Abonnements,343.88,5
+370,2025-11-18,Ventes produits,961.14,4
+371,2025-11-07,Abonnements,80.0,4
+372,2025-11-18,Abonnements,250.19,1
+373,2025-11-08,Prestations,843.09,3
+374,2025-11-01,Prestations,920.73,5
+375,2025-11-21,Ventes produits,1125.26,4
+376,2025-11-09,Ventes produits,1060.54,3
+377,2025-11-12,Ventes produits,752.48,4
+378,2025-11-21,Prestations,556.97,5
+379,2025-11-12,Ventes produits,1217.73,2
+380,2025-11-06,Abonnements,256.72,3
+381,2025-11-18,Ventes produits,1154.06,5
+382,2025-11-10,Ventes produits,772.05,3
+383,2025-11-07,Ventes produits,815.03,1
+384,2025-11-03,Prestations,651.37,1
+385,2025-11-11,Abonnements,256.1,1
+386,2025-12-09,Abonnements,252.65,5
+387,2025-12-02,Abonnements,270.31,1
+388,2025-12-19,Prestations,706.7,2
+389,2025-12-17,Ventes produits,1259.38,4
+390,2025-12-13,Ventes produits,852.23,2
+391,2025-12-30,Prestations,785.16,1
+392,2025-12-06,Ventes produits,1135.44,1
+393,2025-12-22,Ventes produits,999.08,5
+394,2025-12-06,Prestations,719.91,3
+395,2025-12-30,Abonnements,80.0,5
+396,2025-12-20,Ventes produits,884.61,2
+397,2025-12-08,Ventes produits,772.67,4
+398,2025-12-12,Prestations,1024.31,5
+399,2025-12-17,Ventes produits,743.14,1
+400,2025-12-20,Ventes produits,770.39,2
+401,2025-12-04,Prestations,562.84,5
+402,2025-12-24,Ventes produits,1025.14,2
+403,2025-12-14,Ventes produits,805.96,3
+404,2025-12-12,Ventes produits,702.25,1
+405,2025-12-24,Abonnements,410.33,4
+406,2025-12-03,Abonnements,481.35,3
+407,2025-12-15,Abonnements,648.08,1
+408,2025-12-15,Prestations,533.22,1
+409,2025-12-28,Ventes produits,711.94,1
+410,2025-12-17,Ventes produits,931.57,1
+411,2025-12-06,Abonnements,171.78,2
+412,2025-12-17,Ventes produits,1003.55,2
+413,2025-12-13,Prestations,666.53,2
+414,2025-12-22,Abonnements,80.0,1
+415,2025-12-15,Ventes produits,734.84,4
+416,2025-12-30,Abonnements,532.3,4
+417,2025-12-05,Ventes produits,787.84,5
+418,2025-12-02,Ventes produits,846.2,2
+419,2025-12-29,Prestations,601.08,5
+420,2025-12-11,Abonnements,315.57,3

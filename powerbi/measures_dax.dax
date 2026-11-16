@@ -1,0 +1,9 @@
+Total Revenus = SUM( Revenues[amount_tnd] )
+Total Dépenses = SUM( Expenses[amount_tnd] )
+Résultat Net = [Total Revenus] - [Total Dépenses]
+Marge Nette % = DIVIDE( [Résultat Net], [Total Revenus], 0 )
+Budget Revenus = CALCULATE( SUM(Budgets[budget_amount_tnd]), Budgets[category] = "Chiffre d'affaires" )
+Écart Budget Revenus = [Total Revenus] - [Budget Revenus]
+Taux Réalisation Budget = DIVIDE( [Total Revenus], [Budget Revenus], 0 )
+Nombre Opérations Revenus = COUNTROWS( Revenues )
+Nombre Opérations Dépenses = COUNTROWS( Expenses )

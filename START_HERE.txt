@@ -1,0 +1,12 @@
+CONFIGURATION : MySQL • données synthétiques • TND
+
+1. Lire README.md et docs/project_methodology.md.
+2. Installer les dépendances : pip install -r requirements.txt
+3. Exécuter sql/schema.sql dans MySQL.
+4. Copier .env.example vers .env et renseigner le mot de passe.
+5. Exécuter : python python/clean_data.py
+6. Exécuter : python python/load_mysql.py
+7. Ouvrir Power BI Desktop, importer les tables MySQL.
+8. Créer les relations, ajouter les mesures DAX et construire les pages du cahier de conception.
+
+Le dossier contient le code, les données et la conception. Le fichier .pbix final est à construire dans Power BI Desktop.
